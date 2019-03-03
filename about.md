@@ -12,9 +12,11 @@ Experienced Independent Consultant with a demonstrated history of working in res
 
 I am a capable Project Manager, and blend managerial experience with very strong technical expertise.
 
-My technical skill is broad and well-honed by many years of experience and numerous training courses. I expect to be able to deliver innovative solutions. Extensive programming and development experience in programming languages and tools; blending full stack programming ability with wide ranging database experience 
+My technical skill is broad and well-honed by many years of experience and numerous training courses. 
+I expect to be able to deliver innovative solutions. Extensive programming and development experience in 
+programming languages and tools; blending full stack programming ability with wide ranging database experience 
 
-Strong professional with a BEng focused in Electrical and Electronics Engineering from Imperial College London.
+Strong professional with a B.Eng focused in Electrical and Electronics Engineering from Imperial College London.
 
 ### Contact me
 
